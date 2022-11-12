@@ -29,7 +29,3 @@ Detail code files can be found in the following paper-specific repositories:
 * [Small Firms and the COVID-19 Insolvency Gap](https://github.com/julienOlivier3/insolvencygap)
 * [An integrated data framework for policy guidance during the coronavirus pandemic: Towards real-time decision support for economic policymakers](https://github.com/julienOlivier3/DataFramework_EconomicCrises)
 * [Mapping Technologies to Business Models: An Application to Clean Technologies and Entrepreneurship](https://github.com/julienOlivier3/cleantech)
-
-## Presentation
-
-Presentation slides can be found [here](https://raw.githack.com/julienOlivier3/thesis/master/Disputation_Doerr.pdf).
